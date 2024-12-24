@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Gamei
+//  readtimepro
 //
 //  Created by Jean Carlos.
 //  Copyright © 2019 Jean Carlos. All rights reserved.

@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Gamei
 //
-//  Created by Jean Tinoco.
-//  Copyright © 2019 Jean Tinoco. All rights reserved.
+//  Created by Jean Carlos.
+//  Copyright © 2019 Jean Carlos. All rights reserved.
 //
 
 import UIKit
@@ -24,7 +24,7 @@ class ViewController: UIViewController,WKUIDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let url = URL(string: "https://gamei.hidedomain.info")!
+        let url = URL(string: "https://readtime.pro)!
         webView.load(URLRequest(url: url))
         webView.allowsBackForwardNavigationGestures = true
     }

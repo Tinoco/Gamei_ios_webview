@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Gamei 
+//  readtimepro 
 //
-//  Created by Jean Tinoco
-//  Copyright © 2019 Jean Tinoco. All rights reserved.
+//  Created by Jean Carlos
+//  Copyright © 2019 Jean Carlos. All rights reserved.
 //
 
 import UIKit
